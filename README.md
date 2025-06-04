@@ -16,7 +16,7 @@ This project presents an interactive Excel dashboard built using PivotTables and
 - Slicers
 
 ## 🖼 Dashboard Preview
-![Dashboard](screenshots/dashboard_view.png)
+![Dashboard](https://github.com/rajthapa11/excel-sales-dashboard/blob/main/dashboard.png)
 
 ## 📂 Files Included
 - `dashboard.xlsx` — Excel file with all visualizations
